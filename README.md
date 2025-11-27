@@ -26,4 +26,4 @@ This project aims to classify three distinct voice commands (GO, STOP, CLAP) and
 ## 3. Deployment and Demonstration
 * **Deployment Method:** Live Classification via Web Browser, using Mobile Phone Microphone (phone_mibrpgvy).
 * **Link to Edge Impulse Project:** [Insert your Edge Impulse project link here]
-* **Link to Demo Video:** **[Pending - Insert your YouTube link here after recording]**
+* **Link to Demo Video:** **[[Pending - Insert your YouTube link here after recording](https://youtu.be/1-aV8FMdSlU)]**
